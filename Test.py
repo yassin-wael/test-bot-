@@ -191,7 +191,7 @@ async def total_uptime():
 
 client.loop.create_task(total_uptime()) 
 
-client.run ('')
+client.run ("NDUzOTcyODEyMDU5OTAxOTU0.DivBBA.e-t4vzgkaSj_eJWX07cWfoTQ4FQ")
 
 
 
